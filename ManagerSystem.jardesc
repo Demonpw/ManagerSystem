@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/10949/Desktop/1/ManagerSystem.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ManagerSystem/ManagerSystem.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/ManagerSystem/2.png"/>
+        <file path="/ManagerSystem/3.png"/>
+        <javaElement handleIdentifier="=ManagerSystem/src"/>
+        <file path="/ManagerSystem/.classpath"/>
+        <file path="/ManagerSystem/.project"/>
+    </selectedElements>
+</jardesc>
